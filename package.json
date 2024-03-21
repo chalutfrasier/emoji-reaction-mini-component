@@ -1,0 +1,23 @@
+{
+  "name": "emoji-reaction-mini-component",
+  "version": "1.0.2",
+  "description": "A React component for adding emoji reactions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chalutfrasier/emoji-reaction-mini-component"
+  },
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0"
+  },
+  "dependencies": {
+    "emoji-mart": "^3.0.0",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
